@@ -90,4 +90,5 @@ git init
 
 mutual encouragement！！！
 
+参考：http://www.cnblogs.com/heyonggang/p/3462191.html
 
